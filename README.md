@@ -1,18 +1,17 @@
-## Getting Started
+# Manejo de Excepciones en Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositorio contiene la implementación del Parcial Número 1 de la experiencia educativa Programación para Aplicaciones de Escritorio, donde se desarrolló en Java el diagrama UML proporcionado, incluyendo herencia, cálculo de áreas y perímetros, y manejo de excepciones personalizadas.
 
-## Folder Structure
+## Contenido del proyecto
 
-The workspace contains two folders by default, where:
+Implementación de la clase GeometricObject
+- Clases derivadas: Circle, Rectangle y Triangle
+- Creación de la excepción personalizada IllegalTriangleException
+- Validación de la regla del triángulo
+- Uso de throw, throws, try y catch
+- Programa de prueba con entrada por consola
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+🤖 Apoyo de IA
+Este proyecto fue desarrollado con apoyo de Inteligencia Artificial como herramienta complementaria. La IA me ayudó a optimizar tiempo, aclarar dudas específicas sobre herencia y constructores, reforzar el uso correcto de super y métodos set, y comprender mejor el manejo de excepciones personalizadas en Java.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+El objetivo no fue solo generar código, sino fortalecer la comprensión de los conceptos aplicados en el parcial.
